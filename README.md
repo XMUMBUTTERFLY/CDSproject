@@ -15,7 +15,7 @@
             background-repeat: no-repeat;
         }
         h1 {
-            color: #333333;
+            color: 	white;
         }
         .main-container {
             display: flex;

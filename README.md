@@ -1,15 +1,18 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>XMUM Students Favorite Food</title>
+    <title>XMUM Students Favourite Food</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
             margin: 40px;
+            /* Add the background GIF */
+            background-image: url('[your_gif_url_here.gif](https://usagif.com/wp-content/uploads/gif/outerspace-58.gif.webp)');
+            background-size: cover;
+            background-repeat: no-repeat;
         }
         h1 {
             color: #333333;
@@ -25,6 +28,11 @@
             align-items: center;
             width: 60%;
             margin: 0 1%;
+        }
+        /* Add borders to the images */
+        img.side, img.middle {
+            border: 3px solid #333333;
+            border-radius: 5px; /* To give a rounded edge to the borders */
         }
         img.side {
             width: 19%; /* Adjusted width for side images */
@@ -48,7 +56,7 @@
     </style>
 </head>
 <body>
-    <h1>XMUM STUDENTS FAVORITE FOOD</h1>
+    <h1>XMUM Students Favourite Food</h1>
     <div class="main-container">
         <img class="side" src="ly3.png" alt="Side Image 1">
         <div class="img-container">

@@ -10,7 +10,7 @@
             text-align: center;
             margin: 40px;
             /* Add the background GIF */
-            background-image: url('[your_gif_url_here.gif](https://usagif.com/wp-content/uploads/gif/outerspace-58.gif.webp)');
+            background-image: url('https://usagif.com/wp-content/uploads/gif/outerspace-58.gif.webp');
             background-size: cover;
             background-repeat: no-repeat;
         }
